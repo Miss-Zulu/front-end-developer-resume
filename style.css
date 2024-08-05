@@ -36,3 +36,9 @@ a {
   border: 1px solid #f5c7f7;
   color: black;
 }
+.link {
+  color: #c3bef0;
+  font-family: "Gupter", serif;
+  font-size: 20px;
+  text-align: center;
+}

@@ -11,6 +11,13 @@
   font-size: 36px;
   font-weight: 400;
 }
+.project {
+  font-family: "Gupter", serif;
+  font-size: 90px;
+  font-weight: 400;
+  text-align: center;
+  background-color: #c3bef0;
+}
 .location {
   font-family: "Gupter", serif;
   font-size: 36px;
@@ -41,4 +48,31 @@ a {
   font-family: "Gupter", serif;
   font-size: 20px;
   text-align: center;
+}
+footer {
+  margin-top: 70px;
+  text-align: center;
+}
+
+.img-fluid {
+  width: 10;
+  height: 10;
+
+  border: 12px solid #f9f7fe;
+  padding: 50 50 30 30;
+  border-radius: 6px;
+  margin-top: 14px;
+}
+.basic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 40px;
+  margin-top: 94px;
+}
+p {
+  color: #6c757d;
+  font-family: "Gupter", serif;
+  font-size: 25px;
+  line-height: 30px;
 }

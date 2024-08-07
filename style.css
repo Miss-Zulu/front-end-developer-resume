@@ -55,9 +55,8 @@ footer {
 }
 
 .img-fluid {
-  width: 10;
-  height: 10;
-
+  max-width: 60%;
+  height: auto;
   border: 12px solid #f9f7fe;
   padding: 50 50 30 30;
   border-radius: 6px;
@@ -75,4 +74,5 @@ p {
   font-family: "Gupter", serif;
   font-size: 25px;
   line-height: 30px;
+  margin-left: 1px;
 }

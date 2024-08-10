@@ -55,7 +55,7 @@ footer {
 }
 
 .img-fluid {
-  max-width: 60%;
+  max-width: 70%;
   height: auto;
   border: 12px solid #f9f7fe;
   padding: 50 50 30 30;
@@ -69,10 +69,19 @@ footer {
   font-size: 40px;
   margin-top: 94px;
 }
+
+h2 {
+  font-size: 64px;
+  font-family: "Gupter", serif;
+  font-weight: bold;
+}
 p {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 30px;
   color: #6c757d;
   font-family: "Gupter", serif;
-  font-size: 25px;
-  line-height: 30px;
-  margin-left: 1px;
+}
+.picture {
+  max-width: 80px;
 }
